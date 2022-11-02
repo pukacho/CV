@@ -1,0 +1,12 @@
+body{
+  background-color: #CFFF8D;
+}
+hr{
+    background-color: #425F57;
+    border-style: none;
+    height: 2px;
+}
+
+img {
+  border-radius: 50%;
+}
